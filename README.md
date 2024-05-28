@@ -72,3 +72,12 @@ This project is a comprehensive e-commerce web application built using Java and 
 <img width="1425" alt="Screenshot 2024-01-10 at 6 20 33 PM" src="https://github.com/Didar1313/e-commerce-web/assets/73778140/b709b57e-0077-4881-824d-8c380b50a340">
 
 <img width="1179" alt="Screenshot 2024-01-10 at 6 21 01 PM" src="https://github.com/Didar1313/e-commerce-web/assets/73778140/63cff913-116b-486b-a366-247939553de9">
+
+<img width="1378" alt="Screenshot 2024-01-10 at 6 21 30 PM" src="https://github.com/Didar1313/e-commerce-web/assets/73778140/ee0f472f-77e4-4de4-a81a-e18fded679aa">
+
+<img width="1410" alt="Screenshot 2024-01-10 at 6 23 30 PM" src="https://github.com/Didar1313/e-commerce-web/assets/73778140/da33b420-4612-4236-80a9-7cf22f7f2ae5">
+
+<img width="1411" alt="Screenshot 2024-01-10 at 9 25 27 PM" src="https://github.com/Didar1313/e-commerce-web/assets/73778140/66932397-dcc8-42da-b9f3-3f782ee4b713">
+
+<img width="1337" alt="Screenshot 2024-01-10 at 9 27 07 PM" src="https://github.com/Didar1313/e-commerce-web/assets/73778140/a9db3758-d8f0-4059-b490-ead8c40b8d79">
+

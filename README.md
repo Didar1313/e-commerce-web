@@ -59,3 +59,8 @@ This project is a comprehensive e-commerce web application built using Java and 
 
 - Visit /admin to access the admin panel.
 - Manage categories and products from the admin dashboard.
+
+## User Access
+
+- Register or log in to start shopping.
+- Browse products, add to cart, and proceed to checkout.

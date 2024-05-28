@@ -52,3 +52,10 @@ This project is a comprehensive e-commerce web application built using Java and 
    ```sh
    git clone https://github.com/Didar1313/e-commerce-web.git
    cd e-commerce-web
+
+### Usage
+
+** Admin Access
+
+- Visit /admin to access the admin panel.
+- Manage categories and products from the admin dashboard.
